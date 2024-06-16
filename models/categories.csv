@@ -1,0 +1,13 @@
+category_id,category_name,category_colors,category_icon
+c1,New,"[#fdc006, #FFFFFF]",NewIcon
+c2,Temple,"[#FCD664, #FFFFFF]",TempleIcon
+c3,Parks,"[#78C2A4, #FFFFFF]",ParkIcon
+c4,Hospitals,"[#E74424, #FFFFFF]",HospitalIcon
+c5,Food,"[#A3E440, #FFFFFF]",FoodIcon
+c6,Hotels,"[#fcd1a4, #FFFFFF]",HotelIcon
+c7,Education,"[#1D2870, #FFFFFF]",EducationIcon
+c8,Entertainment,"[#fd9600, #FFFFFF]",EntertainmentIcon
+c9,Mall,"[#d95a6c, #FFFFFF]",MallIcon
+c10,Market,"[#e8a958, #FFFFFF]",MarketIcon
+c11,Travel,"[#fd654d, #FFFFFF]",TravelIcon
+c12,Gyms,"[#1588fa, #FFFFFF]",GymIcon
